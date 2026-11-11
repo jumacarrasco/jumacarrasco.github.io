@@ -2,10 +2,10 @@
 title: Juan Manuel Carrasco Arandia
 subtitle: Professional Portfolio
 email: jumacarrasco@gmail.com
-description: 
+description: Description from config file
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jumacarrasco.github.io" # the base hostname & protocol for your site
-author:
+author: Juan Manuel Carrasco Arandia
 street_address: 
 city: Uppsala
 state: 
@@ -14,8 +14,8 @@ country: Sweden
 phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 3
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
