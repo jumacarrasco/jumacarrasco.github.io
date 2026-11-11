@@ -3,8 +3,8 @@ title: Juan Manuel Carrasco Arandia
 subtitle: Professional Portfolio
 email: jumacarrasco@gmail.com
 description: 
-baseurl: "/jumacarrasco.github.io" # the subpath of your site, e.g. /blog
-url: jum_url # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jumacarrasco.github.io" # the base hostname & protocol for your site
 author:
 street_address: 
 city: Uppsala
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/jumacarrasco
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/jumacarrasco
+  Twitter:
   Facebook:
   Slack:
 
